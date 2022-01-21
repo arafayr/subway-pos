@@ -1,2 +1,2 @@
 # subway-pos
-an simple gui for subway pos
+a simple gui for subway pos
